@@ -1,0 +1,38 @@
+.minus{
+    background-color: blue;
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+}
+
+.plyus{
+    background-color: red;
+    width: 60px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 20px;
+  
+
+}
+.text{
+   font-size: 24px;
+    color: darkgoldenrod;
+    
+ 
+}
+body{
+    background-color: aquamarine
+    
+}
+
+
+.flex{
+    display: flex;
+    align-items: center;
+    margin-top: 260px;
+    margin-left: 500px;
+
+}
+
